@@ -1,1 +1,2 @@
 # Portfolio-Website
+This website will be constantly changing to integrate my skills as a software developer. Working on imporoving HTML and CSS to style/create a professional and clean looking website.
